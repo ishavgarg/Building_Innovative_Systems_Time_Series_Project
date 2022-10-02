@@ -1,2 +1,16 @@
-# Building_Innovative_Systems_Time_Series_Project
-In this project, I have predicted some parameters from a time series dataset
+# Road-Section-Time-Series-Prediction 
+
+## Made by 
+Ishav Garg
+
+## Roll Number
+101917074
+
+## Task 
+We are predicting the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 for year 10 from a 10-year dataset from an IoT sensor on the road.
+
+## Model Used 
+We have used Light Gradient Boosting Machine for solving this problem.
+
+## Results
+The RMSE value of the model is 67.78.
